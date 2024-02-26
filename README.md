@@ -1,9 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alfiaah.alfiaah" />
-
+<div align="center"> 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alfia+AH!;" />
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=5001&pause=1000&color=F7891B&random=false&width=435&lines=Hi+There%F0%9F%91%8B;I+am+Alfia+A+H" alt="Typing SVG" /></a>
 </h1>
-
+</div>
 
 - 👋 Hi, I’m Alfia A H, currently pursuing my Masters in Computer Application.
 - 👀 I’m interested in learning new things.
@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <div align=center>
     <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfiaah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfiaah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-        <img src="https://streak-stats.demolab.com?user=alfiaah&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfiaah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfiaah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+        <img src="https://streak-stats.demolab.com?user=alfiaah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
