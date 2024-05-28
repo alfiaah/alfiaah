@@ -8,7 +8,7 @@
 - 👋 Hi, I’m Alfia A H, currently pursuing my Masters in Computer Application.
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning Laravel
-- 📫 Reach me on @alfiaah002@gmail.com @www.linkedin.com/in/alfiaah
+- 📫 Reach me on @alfiaah002@gmail.com 
 
 
 <!---
